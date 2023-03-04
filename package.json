@@ -4,7 +4,7 @@
   "description": "A simple module for encrypting and decrypting for general use",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Lanson2232/crypthor/issues"
   },
-  "homepage": "https://github.com/Lanson2232/crypthor#readme"
+  "homepage": "https://github.com/Lanson2232/crypthor#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
 }
