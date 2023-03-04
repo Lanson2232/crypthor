@@ -1,6 +1,6 @@
 {
   "name": "@varkhedigital/crypthor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module for encrypting and decrypting for general use",
   "main": "index.js",
   "scripts": {
