@@ -44,12 +44,12 @@ const cipher = new Crypthor('VerySecureEncryptionKey', {
     ivLength:16
 });
 
-const encryptedString = cryptr.encrypt('Encrypting Very Secret Text');
+const encryptedString = cipher.encrypt('Encrypting Very Secret Text');
 
 console.log("Encrypted String: ", encryptedString);
 // ie: UvMqO4zi7mFiSHDMP82xcYTU68qa3cyPzwl6Spmx/IY=
 
-const decryptedString = cryptr.decrypt(encryptedString);
+const decryptedString = cipher.decrypt(encryptedString);
 console.log("Decrypted String: ", decryptedString);
 // ie: "Encrypting Very Secret Text"
 
