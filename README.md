@@ -34,7 +34,7 @@ console.log("Decrypted String: ", decryptedString)
 // ie: "Encrypting Very Secret Text"
 ```
 
-#### Example Usage of Options
+#### Example Usage With Options
 
 ```javascript
 const Crypthor = require('@varkhedigital/crypthor');
