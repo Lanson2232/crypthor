@@ -1,0 +1,26 @@
+{
+  "name": "@varkhedigital/crypthor",
+  "version": "1.0.0",
+  "description": "A simple module for encrypting and decrypting for general use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanson2232/crypthor.git"
+  },
+  "keywords": [
+    "Crypto",
+    "encrypt",
+    "decrypt",
+    "encryption",
+    "decryption"
+  ],
+  "author": "Bünyamin Öztürk <lanson2332@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lanson2232/crypthor/issues"
+  },
+  "homepage": "https://github.com/Lanson2232/crypthor#readme"
+}
